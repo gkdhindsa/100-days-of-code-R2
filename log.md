@@ -6,5 +6,5 @@
 
 **Thoughts:** I have been planning to do this for so long. After a lot of procrastination I finally learned about svg + css. The tutorial was fairly simple and I understood a fair amount of the same. Hopefully, I can work on more animations and perhaps duplicate some that I have seen online.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Calculator App](https://github.com/gkdhindsa/svg-animations)
 
