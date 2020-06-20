@@ -24,5 +24,13 @@
 
 **Link to work:** (https://github.com/gkdhindsa/Grade-Calculator)
 
+### Day 1: June 20, 2020 
+
+**Today's Progress**: Form validation for the grade calculator and started the tic tac toe
+
+**Thoughts:** The buttons shift everytime the text entered and removed, found a temporary fix for it but need to find a way to keep them in place. I did the form validation using if, else statements, need to look up others ways to do it. I need to start reading more documentation and materials to get a better understanding of things.🤔
+
+**Link to work:** (https://github.com/gkdhindsa/JavaScript-TicTacToe)
+
 
 
