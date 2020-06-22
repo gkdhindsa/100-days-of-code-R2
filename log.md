@@ -32,5 +32,21 @@
 
 **Link to work:** (https://github.com/gkdhindsa/JavaScript-TicTacToe)
 
+### Day 1: June 21, 2020 
+
+**Today's Progress**: Finished the TicTacToe game and watched&read the first week of the coursera course: Front-End Web UI Frameworks & Tools:  Bootstrap 4
+
+**Thoughts:** pretty productive day.
+
+**Link to work:** (https://github.com/gkdhindsa/JavaScript-TicTacToe)
+
+### Day 1: June 22, 2020 
+
+**Today's Progress**: Started to replicate this website template: https://freewebsitetemplates.com/preview/space-science/index.html and finidhed the first assignment of the coursera course Front-End Web UI Frameworks & Tools:  Bootstrap 4
+
+**Thoughts:** can do moreeee
+
+**Link to work:** (https://github.com/gkdhindsa/Space-Science-Website)
+
 
 
