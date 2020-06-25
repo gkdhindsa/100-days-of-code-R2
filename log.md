@@ -8,7 +8,7 @@
 
 **Link to work:** (https://github.com/gkdhindsa/svg-animations)
 
-### Day 1: June 18, 2020 
+### Day 2: June 18, 2020 
 
 **Today's Progress**: Created a Calculator using Vanilla Javascript
 
@@ -16,7 +16,7 @@
 
 **Link to work:** (https://github.com/gkdhindsa/JavaScript-Calculator)
 
-### Day 1: June 19, 2020 
+### Day 3: June 19, 2020 
 
 **Today's Progress**: Created a Grade Calculator
 
@@ -24,7 +24,7 @@
 
 **Link to work:** (https://github.com/gkdhindsa/Grade-Calculator)
 
-### Day 1: June 20, 2020 
+### Day 4: June 20, 2020 
 
 **Today's Progress**: Form validation for the grade calculator and started the tic tac toe
 
@@ -32,7 +32,7 @@
 
 **Link to work:** (https://github.com/gkdhindsa/JavaScript-TicTacToe)
 
-### Day 1: June 21, 2020 
+### Day 5: June 21, 2020 
 
 **Today's Progress**: Finished the TicTacToe game and watched&read the first week of the coursera course: Front-End Web UI Frameworks & Tools:  Bootstrap 4
 
@@ -40,7 +40,7 @@
 
 **Link to work:** (https://github.com/gkdhindsa/JavaScript-TicTacToe)
 
-### Day 1: June 22, 2020 
+### Day 6: June 22, 2020 
 
 **Today's Progress**: Started to replicate this website template: https://freewebsitetemplates.com/preview/space-science/index.html and finidhed the first assignment of the coursera course Front-End Web UI Frameworks & Tools:  Bootstrap 4
 
@@ -48,5 +48,29 @@
 
 **Link to work:** (https://github.com/gkdhindsa/Space-Science-Website)
 
+
+### Day 7: June 23, 2020 
+
+**Today's Progress**: Started the CSS and completed as started module 2 of coursera course
+
+**Thoughts:** can do moreeee
+
+**Link to work:** (https://github.com/gkdhindsa/Space-Science-Website)
+
+### Day 8: June 24, 2020 
+
+**Today's Progress**: learnt about absolute and relative positioning in CSS and wokred in the index and about us page +watched a bit of the coursera course
+
+**Thoughts:** need to learn more about positioning elements! still feeling accomplished.
+
+**Link to work:** (https://github.com/gkdhindsa/Space-Science-Website)
+
+### Day 9: June 25, 2020 
+
+**Today's Progress**: Finished the CSS of the rest of the pages of the website! + watched a bit of the coursera course
+
+**Thoughts:** can do moreeee!
+
+**Link to work:** (https://github.com/gkdhindsa/Space-Science-Website)
 
 
