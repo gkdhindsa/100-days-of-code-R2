@@ -73,4 +73,12 @@
 
 **Link to work:** (https://github.com/gkdhindsa/Space-Science-Website)
 
+### Day 10: June 26, 2020 
+
+**Today's Progress**: Finished the 2nd assignment on the course and moved on to the third module.
+
+**Thoughts:** Wanted to take a break today but it was worth it!
+
+**Link to work:** (https://github.com/gkdhindsa/Ristorante-Con-Fusion)
+
 
