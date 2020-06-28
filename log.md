@@ -81,4 +81,25 @@
 
 **Link to work:** (https://github.com/gkdhindsa/Ristorante-Con-Fusion)
 
+### Day 11: June 27, 2020 
+
+**Today's Progress**: Started a Real Estate Website from a template, learnt parallax webistes + non-css sliders (didn't really get this, will try again)
+
+**Thoughts:** Had fun making the website
+
+**Link to work:** (https://github.com/gkdhindsa/Ristorante-Con-Fusion)
+(https://github.com/gkdhindsa/Real-Estate-Website)
+(https://www.wix.com/website-template/view/html/1792?utm_source=freewebsitetemplates&utm_medium=template_banner&utm_term=blank&utm_content=ma_html_fwt_temp_1_4_faber&utm_campaign=ma_fwt&experiment_id=cpa_fwt_temp_1_4_faber1792)
+
+### Day 12: June 28, 2020 
+
+**Today's Progress**: Finished the Real Estate Website + finished third module except the assignment
+
+**Thoughts:** Wanted to take a break today but it was worth it!
+
+**Link to work:** (https://github.com/gkdhindsa/Ristorante-Con-Fusion)
+(https://github.com/gkdhindsa/Real-Estate-Website)
+(https://www.wix.com/website-template/view/html/1792?utm_source=freewebsitetemplates&utm_medium=template_banner&utm_term=blank&utm_content=ma_html_fwt_temp_1_4_faber&utm_campaign=ma_fwt&experiment_id=cpa_fwt_temp_1_4_faber1792)
+
+
 
