@@ -101,5 +101,21 @@
 (https://github.com/gkdhindsa/Real-Estate-Website)
 (https://www.wix.com/website-template/view/html/1792?utm_source=freewebsitetemplates&utm_medium=template_banner&utm_term=blank&utm_content=ma_html_fwt_temp_1_4_faber&utm_campaign=ma_fwt&experiment_id=cpa_fwt_temp_1_4_faber1792)
 
+### Day 13: June 29, 2020 
+
+**Today's Progress**: Virtual Keyboard + third week assignment
+
+**Thoughts:** fun- need to learn more bootstrap fosure, always remember (whitespace: pre)
+
+**Link to work:** (https://github.com/gkdhindsa/Ristorante-Con-Fusion)
+(https://github.com/gkdhindsa/Virtual-Keyboard)
+
+### Day 14: June 30, 2020 
+
+**Today's Progress**: Made five loaders today
+
+**Thoughts:** Wanted to take a break today but it was worth it! part 2
+
+**Link to work:** (https://github.com/gkdhindsa/Loaders)
 
 
