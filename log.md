@@ -119,3 +119,28 @@
 **Link to work:** (https://github.com/gkdhindsa/Loaders)
 
 
+### Day 15: July 1, 2020 
+
+**Today's Progress**: Made a tip calculator using JS
+
+**Thoughts:** Need to wokr more on UI and css
+
+**Link to work:** (https://github.com/gkdhindsa/Javascript-Tip-Calculator)
+
+### Day 16: July 2, 2020 
+
+**Today's Progress**: finished the fourth assignment on the coursera course
+
+**Thoughts:** Need to explore LESS, SASS, npm scripts someday and need to keep learning about bootstrap
+
+**Link to work:** (https://github.com/gkdhindsa/Ristorante-Con-Fusion)
+
+### Day 17: July 3, 2020 
+
+**Today's Progress**: Made five loaders today
+
+**Thoughts:** Wanted to take a break today but it was worth it! part 2
+
+**Link to work:** (https://github.com/trending)
+
+
