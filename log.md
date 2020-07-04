@@ -137,10 +137,17 @@
 
 ### Day 17: July 3, 2020 
 
-**Today's Progress**: Made five loaders today
+**Today's Progress**: finished coursera course apart from additional and honours material. also made a java clock: digital and analog
 
 **Thoughts:** Wanted to take a break today but it was worth it! part 2
 
-**Link to work:** (https://github.com/trending)
+**Link to work:** (https://github.com/gkdhindsa/JavaScript-Clock)
 
+### Day 18: July 4, 2020
+
+**Today's Progress**: Learnt line animations on svg using css
+
+**Thoughts:** max length of tokenization can be an issue while working with complex one live svgs (editor.maxTokenizationLineLength)
+
+**Link to work:** (https://t.co/JSBOHjxwLL?amp=1)
 
