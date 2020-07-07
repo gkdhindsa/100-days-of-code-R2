@@ -151,3 +151,27 @@
 
 **Link to work:** (https://t.co/JSBOHjxwLL?amp=1)
 
+### Day 19: July 5, 2020
+
+**Today's Progress**: Started my portfolio website, radial navbar, css positions
+
+**Thoughts:** try hugo
+
+**Link to work:** (https://github.com/gkdhindsa/PortfolioWebsite)
+
+### Day 20: July 6, 2020
+
+**Today's Progress**: Made a CSS bubbles animation and added bootstrap to my portfolio website and switched it up a bit
+
+**Thoughts:** Need to learn more animations and experiment
+
+**Link to work:** (https://github.com/gkdhindsa/PortfolioWebsite) https://github.com/gkdhindsa/Bubbles-Animation
+
+
+### Day 21: July 7, 2020
+
+**Today's Progress**: Finished a lot of the freecodecamp exercises for the responsive web design certificate
+
+**Thoughts:** productivity max, I hope I can sustain this peak. [flexbox is something I need to explore + css illustrations + pseudoclasses-before/after]
+
+**Link to work:** 
