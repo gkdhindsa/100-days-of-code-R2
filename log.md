@@ -175,3 +175,37 @@
 **Thoughts:** productivity max, I hope I can sustain this peak. [flexbox is something I need to explore + css illustrations + pseudoclasses-before/after]
 
 **Link to work:** 
+
+### Day 22: July 8, 2020
+
+**Today's Progress**: Finished the CSS Grid section of the #freeCodeCamp exercises and worked on the tribute page project (https://codepen.io/gkdhindsa/pen/pogVgVK) + worked a bit on my portfolio website. 
+
+**Thoughts:** 
+
+**Link to work:** https://github.com/gkdhindsa/PortfolioWebsite https://codepen.io/collection/DYJOJv
+
+
+### Day 23: July 9, 2020
+
+**Today's Progress**: Wrote the HTML and a bit of the CSS for the rest of the #freeCodeCamp projects. Will hopefully complete them tomorrow!
+
+**Thoughts:** 
+
+**Link to work:** https://codepen.io/collection/DYJOJv
+
+### Day 24: July 10, 2020
+
+**Today's Progress**: Didn't get a lot of time to work on my freeCodeCamp projects today, managed to complete the survey form and worked a bit on the DSC Web profile page.
+
+**Thoughts:** need to finish tomorrow for sure.
+
+**Link to work:** https://codepen.io/collection/DYJOJv
+
+
+### Day 25: July 11, 2020
+
+**Today's Progress**: Almost finished the CSS for the freeCodeCamp projects. Added a loader to my about page
+
+**Thoughts:** Need to finish all my current projects and make them responsive before starting anything new.
+
+**Link to work:** https://codepen.io/collection/DYJOJv
