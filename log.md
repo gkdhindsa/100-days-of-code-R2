@@ -209,3 +209,20 @@
 **Thoughts:** Need to finish all my current projects and make them responsive before starting anything new.
 
 **Link to work:** https://codepen.io/collection/DYJOJv
+
+
+### Day 26: July 12, 2020
+
+**Today's Progress**: Modified a photo gallery website I made earlier to add a slider.
+
+**Thoughts:** Need to work on the mobile screens
+
+**Link to work:** https://github.com/gkdhindsa/AboutProject
+
+### Day 27: July 13, 2020
+
+**Today's Progress**: started the freeCodeCamp js certification and finished a week of 'Algorithmic Toolbox'
+
+**Thoughts:** 
+
+**Link to work:** 
