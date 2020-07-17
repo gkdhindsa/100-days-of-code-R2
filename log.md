@@ -226,3 +226,11 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 28-31: July 13, 2020
+
+**Today's Progress**: made progress on the freeCodeCamp js certification, finished two weeks of 'Algorithmic Toolbox' + worked on the DSC Web Profile.
+
+**Thoughts:** 
+
+**Link to work:** 
