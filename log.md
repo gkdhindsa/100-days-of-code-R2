@@ -278,36 +278,50 @@
 ### Day 37-71: July 22-23, 2020
 
 -> Minion CSS art: https://codepen.io/gkdhindsa/pen/zYrbJLV
+
 -> Burger CSS Art (inpiration -https://codepen.io/sashatran/full/vgJNxE ): https://codepen.io/gkdhindsa/pen/xxZNjzM 
+
 -> CSS button transitions
+
 -> Completed portfolio website (unhappy with the design :( )
+
 -> Finished the freeCodeCamp Javascript certification (yay!)
+
 -> More CSS button transitions from a Dev Simplified Tutorial
+
 -> Made an ecommerce website (no backend) (wix template- https://www.wix.com/website-template/view/html/2282?siteId=7a0cab33-ea91-4ef7-90f1-37efe8e1dc9b&metaSiteId=a23e8e18-4a99-4d8b-adff-b45ac27a9d92&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates&tpClick=view_button): https://github.com/gkdhindsa/Ecommerce-Website
+
 -> Drag and Drop List (tutorial- https://www.youtube.com/watch?v=tZ45HZAkbLc): https://codepen.io/gkdhindsa/pen/bGpEMrW
+
 -> T-rex run game (tutorial- https://www.youtube.com/watch?v=bG2BmmYr9NQ&feature=youtu.be): https://codepen.io/gkdhindsa/pen/KKzzdVK
+
 -> Pip game thingy (tutorial -https://www.youtube.com/watch?v=bG2BmmYr9NQ&list=PL1ATIExhr18A9eWbGdwOady_sfE5VkHur ): https://codepen.io/gkdhindsa/pen/PoNNEjP
+
 -> 15 JS freeCodeCamp Projects (https://www.youtube.com/watch?v=3PHXvlpOkf4&t=22601s): https://github.com/gkdhindsa/FCC-15-JS-Projects
-    Colour Flipper
-    Counter
-    Reviews
-    Responsive Navbar
-    Responsive Sidebar
-    Modal
-    Accordion
-    Menu Project
-    Video background projects
-    Countdown
-    Lorem Ipsum Generator... and counting
+    -Colour Flipper
+    -Counter
+    -Reviews
+    -Responsive Navbar
+    -Responsive Sidebar
+    -Modal
+    -Accordion
+    -Menu Project
+    -Video background projects
+    -Countdown
+    -Lorem Ipsum Generator... and counting
     
 -> CSS Grids and Transitions: https://codepen.io/gkdhindsa/pen/BaKadaV
+
 -> https://github.com/gkdhindsa/DSC-Web-Profile
+
 -> https://github.com/GDGVIT/Build-You-landing
+
 -> https://github.com/GDGVIT/Build-You
 
 ...and a lot of bootstrap, CSS and JS practice!
 
 ### Day 72: August 31, 2020
+
 **Today's Progress**:  
 
 **Thoughts:** 
