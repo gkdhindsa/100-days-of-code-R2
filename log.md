@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 1: March 22, 2021
+### Day 1: March 23, 2021
 
-**Today's Progress**: 
+**Today's Progress**: 3 HackerRank probems
 
-**Thoughts:** 
+**Thoughts:** -> Revisit vectors and other approaches
 
 **Link to work:** 
 
