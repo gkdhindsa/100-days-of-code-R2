@@ -6,7 +6,12 @@
 
 **Thoughts:** -> Revisit vectors and other approaches
 
-**Link to work:** 
 
+
+### Day 2: March 24, 2021
+
+**Today's Progress**: 2 array problems on leetcode, basics of DSA from the udemy course
+
+**Link to work:** 
 
 
