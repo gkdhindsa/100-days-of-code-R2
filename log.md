@@ -12,6 +12,14 @@
 
 **Today's Progress**: 2 array problems on leetcode, basics of DSA from the udemy course
 
-**Link to work:** 
+
+
+### Day 3: March 25, 2021
+
+**Today's Progress**: 1 easy vector based problem on leetcode, worked on a front end project
+**Thoughts:** Manage time better :'(
+
+
+
 
 
