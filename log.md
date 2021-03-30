@@ -25,6 +25,12 @@
 
 **Today's Progress**: 1 easy problem, 1 medium level problem on leetcode
 
+### Day 6-7: March 28 and March 30, 2021
+
+**Today's Progress**: 4 easy problems - leetcode
+
+
+
 
 
 
