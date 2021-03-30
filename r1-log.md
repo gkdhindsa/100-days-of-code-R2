@@ -13,3 +13,8 @@ The log of my #100DaysOfCode challenge. Started on [March 23, Monday, 2021].
 ### R2D4  1 easy problem, 1 medium 
 
 ### R2D5  1 easy problem, 1 medium
+
+### R2D6 2 easy problems
+
+### R2D7 2 easy problems
+  
