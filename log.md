@@ -15,6 +15,7 @@
 ### Day 3: March 25, 2021
 
 **Today's Progress**: 1 easy vector based problem on leetcode, worked on a front end project
+
 **Thoughts:** Manage time better :'(
 
 ### Day 4: March 26, 2021
@@ -28,6 +29,14 @@
 ### Day 6-7: March 28 and March 30, 2021
 
 **Today's Progress**: 4 easy problems - leetcode
+
+### Day 8-9: March 31 and Aprl 1, 2021
+
+**Today's Progress**: 2 easy problems - leetcode, portfolio website
+
+**Link to work**: https://github.com/gkdhindsa/Portfolio-website-2
+
+
 
 
 
