@@ -30,11 +30,18 @@
 
 **Today's Progress**: 4 easy problems - leetcode
 
-### Day 8-9: March 31 and Aprl 1, 2021
+### Day 8-9: March 31 and April 1, 2021
 
 **Today's Progress**: 2 easy problems - leetcode, portfolio website
 
 **Link to work**: https://github.com/gkdhindsa/Portfolio-website-2
+
+### Day 10-11: April 2 and April 3, 2021
+
+**Today's Progress**:  Portfolio website, OS project
+
+**Link to work**: https://github.com/gkdhindsa/Portfolio-website-2
+https://codepen.io/gkdhindsa/pen/YzNVVKK
 
 
 
